@@ -1,0 +1,30 @@
+[
+  {
+    "Currency": "USD",
+    "MarketRate": "90.50",
+    "Buy": 91.55,
+    "Sell": 91,
+    "Country": "United States"
+  },
+  {
+    "Currency": "INR",
+    "MarketRate": "91",
+    "Buy": 91.55,
+    "Sell": 91,
+    "Country": "India"
+  },
+  {
+    "Currency": "YEN",
+    "MarketRate": "90",
+    "Buy": 91.55,
+    "Sell": 91,
+    "Country": "Japan"
+  },
+  {
+    "Currency": "EUR",
+    "MarketRate": "100",
+    "Country": "Eurozone",
+    "Buy": "101",
+    "Sell": "99"
+  }
+]
